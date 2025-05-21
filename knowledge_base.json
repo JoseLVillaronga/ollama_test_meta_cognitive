@@ -1,0 +1,75 @@
+{
+  "site_url": "https://tech-support.com.ar",
+  "pages_scraped": 1,
+  "title": "Tech Support Argentina",
+  "description": "Somos una empresa dedicada a brindar soluciones tecnológicas integrales para empresas. Ofrecemos servicios de soporte técnico, desarrollo de software, consultoría IT y más.",
+  "contact_info": {
+    "email": [
+      "info@tech-support.com.ar",
+      "soporte@tech-support.com.ar"
+    ],
+    "phone": [
+      "11-2838-3050"
+    ],
+    "address": [
+      "Buenos Aires, Argentina"
+    ],
+    "social_media": [
+      {
+        "platform": "facebook",
+        "url": "facebook.com/techsupportargentina"
+      }
+    ]
+  },
+  "about": "Tech Support Argentina es una empresa con más de 10 años de experiencia en el mercado de tecnología. Nos especializamos en brindar soluciones tecnológicas a medida para empresas de todos los tamaños. Nuestro equipo de profesionales altamente capacitados está comprometido con la excelencia y la satisfacción del cliente.",
+  "products": [
+    {
+      "name": "Soporte Técnico",
+      "description": "Servicio de soporte técnico para empresas. Incluye mantenimiento preventivo y correctivo de equipos, instalación y configuración de software, y resolución de problemas.",
+      "price": "Consultar"
+    },
+    {
+      "name": "Desarrollo de Software",
+      "description": "Desarrollo de aplicaciones a medida para empresas. Incluye análisis de requerimientos, diseño, desarrollo, pruebas e implementación.",
+      "price": "Consultar"
+    },
+    {
+      "name": "Consultoría IT",
+      "description": "Asesoramiento en tecnología para empresas. Incluye análisis de infraestructura, recomendaciones de mejora, y planificación estratégica.",
+      "price": "Consultar"
+    },
+    {
+      "name": "Redes y Comunicaciones",
+      "description": "Diseño, implementación y mantenimiento de redes. Incluye cableado estructurado, configuración de equipos, y seguridad.",
+      "price": "Consultar"
+    }
+  ],
+  "sections": {
+    "Servicios": "Ofrecemos una amplia gama de servicios tecnológicos para empresas y particulares. Nuestros servicios incluyen soporte técnico, desarrollo de software, consultoría IT, hosting y dominios, y redes y comunicaciones. Todos nuestros servicios son personalizados según las necesidades de cada cliente.",
+    "Clientes": "Trabajamos con empresas de todos los tamaños, desde pequeñas startups hasta grandes corporaciones. Algunos de nuestros clientes incluyen empresas del sector financiero, educativo, salud, y retail.",
+    "Tecnologías": "Trabajamos con las últimas tecnologías del mercado para ofrecer soluciones de vanguardia. Nuestro equipo está capacitado en lenguajes como Python, Java, JavaScript, PHP, y frameworks como React, Angular, Django, y Laravel.",
+    "Contacto": "Puedes contactarnos a través de nuestro formulario de contacto, por teléfono al 11-2838-3050, o por email a info@tech-support.com.ar. También puedes visitarnos en nuestras oficinas en Buenos Aires, Argentina."
+  },
+  "faqs": [
+    {
+      "question": "¿Cuál es el horario de atención?",
+      "answer": "Nuestro horario de atención es de lunes a viernes de 9:00 a 18:00 hs."
+    },
+    {
+      "question": "¿Realizan soporte técnico a domicilio?",
+      "answer": "No a particulares, ofrecemos servicio de soporte técnico a domicilio en CABA y GBA. Para otras localidades para empresas, consultar disponibilidad."
+    },
+    {
+      "question": "¿Cuánto tiempo toma desarrollar una aplicación?",
+      "answer": "El tiempo de desarrollo depende de la complejidad del proyecto. Un proyecto pequeño puede tomar entre 1 y 3 semanas, mientras que proyectos más complejos pueden tomar hasta 6 meses o más."
+    },
+    {
+      "question": "¿Trabajan con empresas del exterior?",
+      "answer": "Sí, trabajamos con empresas de todo el mundo. Ofrecemos servicios remotos y tenemos experiencia en proyectos internacionales."
+    },
+    {
+      "question": "¿Ofrecen servicios de desarrollo de chatbots o bots corporativos?",
+      "answer": "Actualmente no ofrecemos un servicio específico de desarrollo de chatbots o bots corporativos. Sin embargo, dentro de nuestro servicio de desarrollo de software podemos evaluar proyectos personalizados según las necesidades de cada cliente. Puedes contactarnos directamente al email info@tech-support.com.ar o por teléfono al 11-2838-3050 para discutir tu caso específico y explorar posibles soluciones personalizadas."
+    }
+  ]
+}
