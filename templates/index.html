@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat con Ollama - {{ model }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Chat con Ollama</h1>
+            <p class="model-info">Modelo: <span id="model-name">{{ model }}</span></p>
+            <div class="settings">
+                <label class="toggle-switch">
+                    <input type="checkbox" id="knowledge-base-toggle" checked>
+                    <span class="toggle-slider"></span>
+                    <span class="toggle-label">Usar base de conocimientos</span>
+                </label>
+            </div>
+        </header>
+
+        <div class="chat-container">
+            <div id="chat-messages" class="chat-messages">
+                <!-- El historial de mensajes se cargará dinámicamente -->
+            </div>
+
+            <div class="input-area">
+                <textarea id="user-input" placeholder="Escribe tu mensaje aquí..." rows="3"></textarea>
+                <button id="send-button">Enviar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
